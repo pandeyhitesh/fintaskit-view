@@ -30,18 +30,47 @@ Manage your schedule and expenses with ease using FinTaskIt. This app provides a
 |--------------------------------------------------------------------------------------------------------------------|
 | <img src="https://github.com/pandeyhitesh/fintaskit-view/blob/main/screenshots/1-landing-screen.jpg" height="500"> |
 
+### Expenditure
+| Home                                                                                                             | Home                                                                                                         |
+|------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------|
+| <img src="https://github.com/pandeyhitesh/fintaskit-view/blob/main/screenshots/2-exp-home-emt.jpg" height="500"> | <img src="https://github.com/pandeyhitesh/fintaskit-view/blob/main/screenshots/3-exp-home.jpg" height="500"> |
+
+| Budget Estimate                                                                                                 |
+|-----------------------------------------------------------------------------------------------------------------|
+| <img src="https://github.com/pandeyhitesh/fintaskit-view/blob/main/screenshots/4-exp-bgt-est.jpg" height="500"> |
+
+| Category Wise Expense                                                                                           | Month Wise Category Expenses                                                                                           | Week wise Category Expense                                                                                            |
+|-----------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------|
+| <img src="https://github.com/pandeyhitesh/fintaskit-view/blob/main/screenshots/5-exp-p-chart.jpg" height="500"> | <img src="https://github.com/pandeyhitesh/fintaskit-view/blob/main/screenshots/6-exp-pchart-monthly.jpg" height="500"> | <img src="https://github.com/pandeyhitesh/fintaskit-view/blob/main/screenshots/7-exp-pchart-weekly.jpg" height="500"> |
+
+| Expenses by Payment Methods                                                                                      | Expenses in past few weeks                                                                                           |
+|------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------|
+| <img src="https://github.com/pandeyhitesh/fintaskit-view/blob/main/screenshots/8-exp-pm-chart.jpg" height="500"> | <img src="https://github.com/pandeyhitesh/fintaskit-view/blob/main/screenshots/9-exp-wk-bar-chart.jpg" height="500"> |
+
+| Add new Expense                                                                                                  | Select Category                                                                                                  | Select Payment Method                                                                                             |
+|------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------|
+| <img src="https://github.com/pandeyhitesh/fintaskit-view/blob/main/screenshots/10-exp-add-new.jpg" height="500"> | <img src="https://github.com/pandeyhitesh/fintaskit-view/blob/main/screenshots/11-exp-add-cat.jpg" height="500"> | <img src="https://github.com/pandeyhitesh/fintaskit-view/blob/main/screenshots/12-exp-add-paym.jpg" height="500"> |
+
+| Past Expense Data Export                                                                                               | Export Data to Excel and PDF file                                                                                        |
+|------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------|
+| <img src="https://github.com/pandeyhitesh/fintaskit-view/blob/main/screenshots/13-exp-past-expenses.jpg" height="500"> | <img src="https://github.com/pandeyhitesh/fintaskit-view/blob/main/screenshots/14-exp-past-expenses-2.jpg" height="500"> |
 
 ### Skedle
 | Home                                                                                                           | Home                                                                                                                     |
 |----------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------|
 | <img src="https://github.com/pandeyhitesh/fintaskit-view/blob/main/screenshots/15-skdl-home.jpg" height="500"> | <img src="https://github.com/pandeyhitesh/fintaskit-view/blob/main/screenshots/16-skdl-home-completed.jpg" height="500"> |
 
+| Create New Task                                                                                                      | Create New Task                                                                                                        |
+|----------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------|
+| <img src="https://github.com/pandeyhitesh/fintaskit-view/blob/main/screenshots/17-skdl-create-new.jpg" height="500"> | <img src="https://github.com/pandeyhitesh/fintaskit-view/blob/main/screenshots/18-skdl-create-new-2.jpg" height="500"> |
 
-### Expenditure
-![Expenditure](path/to/expenditure.png)
+| Task Description                                                                                                   | Task Description                                                                                                     | Task Description                                                                                                     |
+|--------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------|
+| <img src="https://github.com/pandeyhitesh/fintaskit-view/blob/main/screenshots/19-skdl-tsk-desc.jpg" height="500"> | <img src="https://github.com/pandeyhitesh/fintaskit-view/blob/main/screenshots/20-skdl-tsk-desc-2.jpg" height="500"> | <img src="https://github.com/pandeyhitesh/fintaskit-view/blob/main/screenshots/21-skdl-tsk-desc-3.jpg" height="500"> |
 
-### Expense Summary
-![Expense Summary](path/to/expense_summary.png)
+| Agenda                                                                                                           |
+|------------------------------------------------------------------------------------------------------------------|
+| <img src="https://github.com/pandeyhitesh/fintaskit-view/blob/main/screenshots/22-skdl-agenda.jpg" height="500"> |
 
 ## Getting Started
 
@@ -54,10 +83,10 @@ Manage your schedule and expenses with ease using FinTaskIt. This app provides a
 ### Installation
 #### 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/fintaskit.git
+   git clone https://github.com/pandeyhitesh/fintaskit-view.git
    ```
 #### 2. Navigate to the project directory:
-    cd fintaskit
+    cd fintaskit-view
 #### 3. Install dependencies:
     flutter pub get
 #### 4. Run the app:
@@ -68,10 +97,6 @@ Manage your schedule and expenses with ease using FinTaskIt. This app provides a
 ##### 2. Navigate to Skedle to manage your tasks and schedule.
 ##### 3. Use the Expenditure section to track your expenses.
 ##### 4. View your tasks in calendar or agenda format and visualize your expenses using various charts.
-
-## Contributing
-
-Contributions are welcome! Please read the [contributing guidelines](CONTRIBUTING.md) before making a pull request.
 
 ## License
 
@@ -87,3 +112,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Contact
 
 If you have any questions or feedback, feel free to reach out to [hiteshpandey206@gmail.com](mailto:hiteshpandey206@gmail.com).
+Website [PandeyHitesh](https://linktr.ee/Pandeyhitesh)
