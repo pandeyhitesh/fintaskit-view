@@ -26,7 +26,10 @@ Manage your schedule and expenses with ease using FinTaskIt. This app provides a
 ## Screenshots
 
 ### Landing Screen
-![Landing Screen](https://github.com/pandeyhitesh/fintaskit-view/blob/main/screenshots/1-landing-screen.jpg)
+| Landing Screen                                                                                                     |
+|--------------------------------------------------------------------------------------------------------------------|
+| <img src="https://github.com/pandeyhitesh/fintaskit-view/blob/main/screenshots/1-landing-screen.jpg" height="500"> |
+
 
 ### Skedle
 |![Home](https://github.com/pandeyhitesh/fintaskit-view/blob/main/screenshots/15-skdl-home.jpg)|[Home](https://github.com/pandeyhitesh/fintaskit-view/blob/main/screenshots/16-skdl-home-completed.jpg)
