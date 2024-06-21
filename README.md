@@ -32,7 +32,10 @@ Manage your schedule and expenses with ease using FinTaskIt. This app provides a
 
 
 ### Skedle
-|![Home](https://github.com/pandeyhitesh/fintaskit-view/blob/main/screenshots/15-skdl-home.jpg)|[Home](https://github.com/pandeyhitesh/fintaskit-view/blob/main/screenshots/16-skdl-home-completed.jpg)
+| Home                                                                                                           | Home                                                                                                                     |
+|----------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------|
+| <img src="https://github.com/pandeyhitesh/fintaskit-view/blob/main/screenshots/15-skdl-home.jpg" height="500"> | <img src="https://github.com/pandeyhitesh/fintaskit-view/blob/main/screenshots/16-skdl-home-completed.jpg" height="500"> |
+
 
 ### Expenditure
 ![Expenditure](path/to/expenditure.png)
